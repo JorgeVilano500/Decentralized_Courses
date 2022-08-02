@@ -1,0 +1,44 @@
+what is ethereum? 
+-its a cryptocurrency with a price 
+- can be bought and sold 
+- send and received 
+- held in a wallet 
+
+It is a general purpose blockchain platform 
+it is a peer to peer network of nodes required to talk to each other 
+we connect to a node by ourselves or with a url 
+node will talk for us in the network 
+
+Proof of Work 
+- nodes in the network compete to solve crypto puzzles, 
+the first to solve it will put it on the blockchain and get rewarded 
+this is a consensus algorithm 
+each transaction requires a small fee in order to let the transaction happen, 
+we submit transaction to network, then miners solve puzzle that network creates, each guess 
+gets compared to the original solution. first miner that has similar guess to the original solution it will 
+get rewared the ether 
+
+
+Proof of stake 
+will be added later
+
+
+
+
+Security!
+How are transactions secure?
+51% attack rule, 
+in order to change or tamper with the balance, we would need to change or tamper the transaction 
+in the ledger that was put in the past. It would take a lot of computing power to recompute the original block we want take
+to change and then recompute every block after. 
+
+We would need to control 51% of the computation power to change the block we want. 
+
+
+Gas Fee 
+we need to pay gas fee everytime we create new transaction on the network 
+since we put the transaction on the network we need to insentivize them to mine it. 
+
+
+
+
